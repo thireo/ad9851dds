@@ -1,0 +1,660 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+QFP50P900X900X120-48N
+$EndINDEX
+$MODULE QFP50P900X900X120-48N
+Po 0 0 0 15 00000000 00000000 ~~
+Li QFP50P900X900X120-48N
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0.1
+.SolderPaste 0
+T0 -2.77 -6.05 1 1 0 0.05 N V 21 "QFP50P900X900X120-48N"
+T1 -2.135 6.05 1 1 0 0.05 N V 21 "VAL**"
+DS -3.5 -3.1 -3.5 3.1 0.2032 24
+DC -2.4499 -2.4499 -2.1499 -2.4499 0.127 21
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 -2.8999
+Dl -3.4501 -2.5999
+Dl -4.5999 -2.5999
+Dl -4.5999 -2.8999
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 -2.4
+Dl -3.4501 -2.1001
+Dl -4.5999 -2.1001
+Dl -4.5999 -2.4
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 -1.8999
+Dl -3.4501 -1.5999
+Dl -4.5999 -1.5999
+Dl -4.5999 -1.8999
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 -1.4
+Dl -3.4501 -1.1001
+Dl -4.5999 -1.1001
+Dl -4.5999 -1.4
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 -0.8999
+Dl -3.4501 -0.5999
+Dl -4.5999 -0.5999
+Dl -4.5999 -0.8999
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 -0.4001
+Dl -3.4501 -0.1001
+Dl -4.5999 -0.1001
+Dl -4.5999 -0.4001
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 0.1001
+Dl -3.4501 0.4001
+Dl -4.5999 0.4001
+Dl -4.5999 0.1001
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 0.5999
+Dl -3.4501 0.8999
+Dl -4.5999 0.8999
+Dl -4.5999 0.5999
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 1.1001
+Dl -3.4501 1.4
+Dl -4.5999 1.4
+Dl -4.5999 1.1001
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 1.5999
+Dl -3.4501 1.8999
+Dl -4.5999 1.8999
+Dl -4.5999 1.5999
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 2.1001
+Dl -3.4501 2.4
+Dl -4.5999 2.4
+Dl -4.5999 2.1001
+DP 0 0 0 0 4 0.381 24
+Dl -3.4501 2.5999
+Dl -3.4501 2.8999
+Dl -4.5999 2.8999
+Dl -4.5999 2.5999
+DP 0 0 0 0 4 0.381 24
+Dl -2.5999 3.4501
+Dl -2.5999 4.5999
+Dl -2.8999 4.5999
+Dl -2.8999 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl -2.1001 3.4501
+Dl -2.1001 4.5999
+Dl -2.4 4.5999
+Dl -2.4 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl -1.5999 3.4501
+Dl -1.5999 4.5999
+Dl -1.8999 4.5999
+Dl -1.8999 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl -1.1001 3.4501
+Dl -1.1001 4.5999
+Dl -1.4 4.5999
+Dl -1.4 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl -0.5999 3.4501
+Dl -0.5999 4.5999
+Dl -0.8999 4.5999
+Dl -0.8999 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl -0.1001 3.4501
+Dl -0.1001 4.5999
+Dl -0.4001 4.5999
+Dl -0.4001 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl 0.4001 3.4501
+Dl 0.4001 4.5999
+Dl 0.1001 4.5999
+Dl 0.1001 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl 0.8999 3.4501
+Dl 0.8999 4.5999
+Dl 0.5999 4.5999
+Dl 0.5999 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl 1.4 3.4501
+Dl 1.4 4.5999
+Dl 1.1001 4.5999
+Dl 1.1001 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl 1.8999 3.4501
+Dl 1.8999 4.5999
+Dl 1.5999 4.5999
+Dl 1.5999 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl 2.4 3.4501
+Dl 2.4 4.5999
+Dl 2.1001 4.5999
+Dl 2.1001 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl 2.8999 3.4501
+Dl 2.8999 4.5999
+Dl 2.5999 4.5999
+Dl 2.5999 3.4501
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 2.5999
+Dl 4.5999 2.8999
+Dl 3.4501 2.8999
+Dl 3.4501 2.5999
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 2.1001
+Dl 4.5999 2.4
+Dl 3.4501 2.4
+Dl 3.4501 2.1001
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 1.5999
+Dl 4.5999 1.8999
+Dl 3.4501 1.8999
+Dl 3.4501 1.5999
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 1.1001
+Dl 4.5999 1.4
+Dl 3.4501 1.4
+Dl 3.4501 1.1001
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 0.5999
+Dl 4.5999 0.8999
+Dl 3.4501 0.8999
+Dl 3.4501 0.5999
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 0.1001
+Dl 4.5999 0.4001
+Dl 3.4501 0.4001
+Dl 3.4501 0.1001
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 -0.4001
+Dl 4.5999 -0.1001
+Dl 3.4501 -0.1001
+Dl 3.4501 -0.4001
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 -0.8999
+Dl 4.5999 -0.5999
+Dl 3.4501 -0.5999
+Dl 3.4501 -0.8999
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 -1.4
+Dl 4.5999 -1.1001
+Dl 3.4501 -1.1001
+Dl 3.4501 -1.4
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 -1.8999
+Dl 4.5999 -1.5999
+Dl 3.4501 -1.5999
+Dl 3.4501 -1.8999
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 -2.4
+Dl 4.5999 -2.1001
+Dl 3.4501 -2.1001
+Dl 3.4501 -2.4
+DP 0 0 0 0 4 0.381 24
+Dl 4.5999 -2.8999
+Dl 4.5999 -2.5999
+Dl 3.4501 -2.5999
+Dl 3.4501 -2.8999
+DP 0 0 0 0 4 0.381 24
+Dl 2.8999 -4.5999
+Dl 2.8999 -3.4501
+Dl 2.5999 -3.4501
+Dl 2.5999 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl 2.4 -4.5999
+Dl 2.4 -3.4501
+Dl 2.1001 -3.4501
+Dl 2.1001 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl 1.8999 -4.5999
+Dl 1.8999 -3.4501
+Dl 1.5999 -3.4501
+Dl 1.5999 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl 1.4 -4.5999
+Dl 1.4 -3.4501
+Dl 1.1001 -3.4501
+Dl 1.1001 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl 0.8999 -4.5999
+Dl 0.8999 -3.4501
+Dl 0.5999 -3.4501
+Dl 0.5999 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl 0.4001 -4.5999
+Dl 0.4001 -3.4501
+Dl 0.1001 -3.4501
+Dl 0.1001 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl -0.1001 -4.5999
+Dl -0.1001 -3.4501
+Dl -0.4001 -3.4501
+Dl -0.4001 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl -0.5999 -4.5999
+Dl -0.5999 -3.4501
+Dl -0.8999 -3.4501
+Dl -0.8999 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl -1.1001 -4.5999
+Dl -1.1001 -3.4501
+Dl -1.4 -3.4501
+Dl -1.4 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl -1.5999 -4.5999
+Dl -1.5999 -3.4501
+Dl -1.8999 -3.4501
+Dl -1.8999 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl -2.1001 -4.5999
+Dl -2.1001 -3.4501
+Dl -2.4 -3.4501
+Dl -2.4 -4.5999
+DP 0 0 0 0 4 0.381 24
+Dl -2.5999 -4.5999
+Dl -2.5999 -3.4501
+Dl -2.8999 -3.4501
+Dl -2.8999 -4.5999
+DS -3.1 3.5 3.1 3.5 0.2032 24
+DS 3.5 3.1 3.5 -3.1 0.2032 24
+DS 3.1 -3.5 -3.1 -3.5 0.2032 24
+DS -3.5 3.1 -3.5 3.5 0.2032 21
+DS -3.5 3.5 -3.1 3.5 0.2032 21
+DS 3.1 3.5 3.5 3.5 0.2032 21
+DS 3.5 3.5 3.5 3.1 0.2032 21
+DS 3.5 -3.1 3.5 -3.5 0.2032 21
+DS 3.5 -3.5 3.1 -3.5 0.2032 21
+DS -3.1 -3.5 -3.5 -3.5 0.2032 21
+DS -3.5 -3.5 -3.5 -3.1 0.2032 21
+DS -5.25 -5.25 5.25 -5.25 0.05 24
+DS 5.25 -5.25 5.25 5.25 0.05 24
+DS 5.25 5.25 -5.25 5.25 0.05 24
+DS -5.25 5.25 -5.25 -5.25 0.05 24
+DC -4.25 -3.5 -3.996 -3.5 0 21
+$PAD
+Sh "1" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 -2.75
+$EndPAD
+$PAD
+Sh "2" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 -2.25
+$EndPAD
+$PAD
+Sh "3" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 -1.75
+$EndPAD
+$PAD
+Sh "4" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 -1.25
+$EndPAD
+$PAD
+Sh "5" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 -0.75
+$EndPAD
+$PAD
+Sh "6" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 -0.25
+$EndPAD
+$PAD
+Sh "7" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 0.25
+$EndPAD
+$PAD
+Sh "8" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 0.75
+$EndPAD
+$PAD
+Sh "9" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 1.25
+$EndPAD
+$PAD
+Sh "10" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 1.75
+$EndPAD
+$PAD
+Sh "11" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 2.25
+$EndPAD
+$PAD
+Sh "12" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -4.1 2.75
+$EndPAD
+$PAD
+Sh "13" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -2.75 4.1
+$EndPAD
+$PAD
+Sh "14" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -2.25 4.1
+$EndPAD
+$PAD
+Sh "15" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -1.75 4.1
+$EndPAD
+$PAD
+Sh "16" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -1.25 4.1
+$EndPAD
+$PAD
+Sh "17" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -0.75 4.1
+$EndPAD
+$PAD
+Sh "18" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -0.25 4.1
+$EndPAD
+$PAD
+Sh "19" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 0.25 4.1
+$EndPAD
+$PAD
+Sh "20" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 0.75 4.1
+$EndPAD
+$PAD
+Sh "21" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 1.25 4.1
+$EndPAD
+$PAD
+Sh "22" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 1.75 4.1
+$EndPAD
+$PAD
+Sh "23" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 2.25 4.1
+$EndPAD
+$PAD
+Sh "24" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 2.75 4.1
+$EndPAD
+$PAD
+Sh "25" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 2.75
+$EndPAD
+$PAD
+Sh "26" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 2.25
+$EndPAD
+$PAD
+Sh "27" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 1.75
+$EndPAD
+$PAD
+Sh "28" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 1.25
+$EndPAD
+$PAD
+Sh "29" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 0.75
+$EndPAD
+$PAD
+Sh "30" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 0.25
+$EndPAD
+$PAD
+Sh "31" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 -0.25
+$EndPAD
+$PAD
+Sh "32" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 -0.75
+$EndPAD
+$PAD
+Sh "33" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 -1.25
+$EndPAD
+$PAD
+Sh "34" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 -1.75
+$EndPAD
+$PAD
+Sh "35" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 -2.25
+$EndPAD
+$PAD
+Sh "36" R 0.3 1.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 -2.75
+$EndPAD
+$PAD
+Sh "37" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 2.75 -4.1
+$EndPAD
+$PAD
+Sh "38" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 2.25 -4.1
+$EndPAD
+$PAD
+Sh "39" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 1.75 -4.1
+$EndPAD
+$PAD
+Sh "40" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 1.25 -4.1
+$EndPAD
+$PAD
+Sh "41" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 0.75 -4.1
+$EndPAD
+$PAD
+Sh "42" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 0.25 -4.1
+$EndPAD
+$PAD
+Sh "43" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -0.25 -4.1
+$EndPAD
+$PAD
+Sh "44" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -0.75 -4.1
+$EndPAD
+$PAD
+Sh "45" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -1.25 -4.1
+$EndPAD
+$PAD
+Sh "46" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -1.75 -4.1
+$EndPAD
+$PAD
+Sh "47" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -2.25 -4.1
+$EndPAD
+$PAD
+Sh "48" R 1.6 0.3 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -2.75 -4.1
+$EndPAD
+$EndMODULE QFP50P900X900X120-48N
