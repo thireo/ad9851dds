@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AD9851
-D AD9851 180 MHz DAC/DDS Synthesizer
-F AD9851.pdf
-$ENDCMP
-#
-#End Doc Library
